@@ -12,6 +12,7 @@
 # Jour 1
 
 - versionning, collaboration et sauvegarde
+  [versionnning](https://julienv-it.github.io/Module-Git/versionning.md)
 
 - versionner son code sur github
 
