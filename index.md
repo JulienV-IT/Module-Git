@@ -7,15 +7,19 @@
 - **Vérification des outils et comptes github** (installation et création de compte si besoins) _1h max_
 - **Point culture** _20 minutes max_
 
-- **debut du programme de formation:**
+- **début du programme de formation:**
 
 # Jour 1
 
 - versionning, collaboration et sauvegarde
 
+[versionnning](https://julienv-it.github.io/Module-Git/versionning.md)
+
+[collaboration](https://julienv-it.github.io/Module-Git/collaborate.md)
+
+[stockage](https://julienv-it.github.io/Module-Git/stockage.md)
 
 - versionner son code sur github
-
 
 - Comprendre les diff dans l'historique des commits
 
