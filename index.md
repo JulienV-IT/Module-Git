@@ -17,7 +17,7 @@ Ressources:
 
 [versionnning](https://github.com/JulienV-IT/Module-Git/blob/master/versionning.md)
 
-[collaboration](https://github.com/JulienV-IT/Module-Git/blob/master/collab.md)
+[collaboration](https://github.com/JulienV-IT/Module-Git/blob/master/collaborate.md)
 
 [stockage](https://github.com/JulienV-IT/Module-Git/blob/master/stockage.md)
 
