@@ -4,7 +4,7 @@
 ![versionning](https://julienv-it.github.io/Module-Git/img/versionning.png)
 
 
-Avec le versionning utilisez les commandes pour manipuler votre code et le comparer d'une modificiation a l'autre tout en les hiearchisants et créer un historique de chaques modificiation depuis le départ
+Avec le versionning utilisez les commandes pour manipuler votre code et le comparer d'une modificiation a l'autre tout en les hiearchisants et créer un historique de chaques modification depuis le départ
 
 
 C'est trés utile pour revenir en arriere apres une erreur et ou éventuelellement  comparer deux codes fonctionnels
