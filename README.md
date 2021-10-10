@@ -13,16 +13,15 @@
 
 - versionning, collaboration et sauvegarde
 
-
 - versionner son code sur github
 
-
-- Comprendre les diff dans l'historique des commits
+- Commandes de bases Clone , pull, commit, push
 
 
 # Jour 2
 
-- Commandes de bases Clone , pull, commit, push
+
+- Comprendre les diff dans l'historique des commits
 
 - résolution des conflicts
 
