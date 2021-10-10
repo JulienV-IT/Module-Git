@@ -21,6 +21,10 @@ Ressources:
 
 [stockage](https://github.com/JulienV-IT/Module-Git/blob/master/stockage.md)
 
+[diff](https://github.com/JulienV-IT/Module-Git/blob/master/diff.md)
+
+
+
 # Jour 1
 
 
