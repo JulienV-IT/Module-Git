@@ -19,3 +19,16 @@ On démarre le projet en locale avec la commande
 ou alors on peu cloner un dépot
 
     git clone https://github.com/JulienV-IT/Module-Git.git
+
+
+**Ce qu'il se passe en interne**
+
+voici un schéma de description du comportement lors des processus suivant:
+
+push
+
+pull
+
+status
+
+![schema](https://github.com/JulienV-IT/exogit1/blob/master/git-init.png)
