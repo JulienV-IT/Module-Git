@@ -7,6 +7,8 @@
 - **Vérification des outils et comptes github** (installation et création de compte si besoins) _1h max_
 - **Point culture** _20 minutes max_
 
+[l'histoire](https://fr.wikipedia.org/wiki/Git)
+
 - **début du programme de formation:**
 
 # intro:
