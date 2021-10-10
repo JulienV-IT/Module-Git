@@ -9,11 +9,13 @@
 
 - **début du programme de formation:**
 
-#intro:
+# intro:
 
 [Intro](https://tutogit.netlify.app/)
 
 Ressources:
+
+[fonctionnement de base](https://github.com/JulienV-IT/Module-Git/blob/master/base.md)
 
 [versionnning](https://github.com/JulienV-IT/Module-Git/blob/master/versionning.md)
 
