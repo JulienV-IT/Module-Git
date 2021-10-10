@@ -19,3 +19,25 @@ le versionning permet également de mettre en évidence le **workflow** en place
 - nombre de modification
 - rapidité de production
 - nombre de collaboration  
+
+
+**Les Commits**
+
+Le Commit sont une sorte de message qui accompagne une modification et la valide dans la copie local de travail
+
+    git commit
+
+
+**Pull**    
+
+Avec le pull, on peut récuperer des modifications distantes
+
+    git pull
+
+_En général on spécifie la branche que l'on veux récuperer_
+
+**Push**    
+
+Le push, cette commande envoie les modifications sur le dépôt distantes
+
+_Ici comme le pull on spécifie la branche dans la plupart des cas, attention un push ne passe que si toutes les modifications sont validée_

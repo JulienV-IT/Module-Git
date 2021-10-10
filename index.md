@@ -9,15 +9,22 @@
 
 - **début du programme de formation:**
 
-# Jour 1
+#intro:
 
-- versionning, collaboration et sauvegarde
+[Intro](https://tutogit.netlify.app/)
+
+Ressources:
 
 [versionnning](https://julienv-it.github.io/Module-Git/versionning.md)
 
 [collaboration](https://julienv-it.github.io/Module-Git/collaborate.md)
 
 [stockage](https://julienv-it.github.io/Module-Git/stockage.md)
+
+# Jour 1
+
+
+- versionning, collaboration et sauvegarde
 
 - versionner son code sur github
 
