@@ -1,6 +1,3 @@
-# Module git
-
-
 ## Introduction et prérequis !
 
 - **Présentation et rencontres** (Quelques échanges et jeux pour briser la glace ) _+/- 30 minutes_
