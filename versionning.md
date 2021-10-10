@@ -4,26 +4,26 @@
 ![versionning](https://julienv-it.github.io/Module-Git/img/versionning.png)
 
 
-Avec le versionning utilisez les commandes pour manipuler votre code et le comparer d'une modificiation a l'autre tout en les hiearchisants et créer un historique de chaques modificiation depuis le départ
+Avec le versionning utilisez les commandes pour manipuler votre code et le comparer d'une modification a l'autre tout en les hiérarchisant et créer un historique de chaque modification depuis le départ
 
 
-C'est trés utile pour revenir en arriere apres une erreur et ou éventuelellement  comparer deux codes fonctionnels
+C'est très utile pour revenir en arrière après une erreur et ou éventuellement  comparer deux codes fonctionnels
 
 
-La modification est validée dans un premier temps du coté local avec un **commit**
-puis est enregristrer sur github avec un **push**
+La modification est validée dans un premier temps du côté local avec un **commit**
+puis est enregistré sur GitHub avec un **push**
 
 
-le versionning permet également de mettre en évidence le **workflow** en place:
+le versionning permet également de mettre en évidence le **workflow** en place :
 
-- nombre de modification
+- nombre de modifications
 - rapidité de production
-- nombre de collaboration  
+- nombre de collaborations  
 
 
 **Les Commits**
 
-Le Commit sont une sorte de message qui accompagne une modification et la valide dans la copie local de travail en générant un idenfiant unique
+Le Commit est une sorte de message qui accompagne une modification et la valide dans la copie locale de travail en générant un identifiant unique
 
     git commit
 
@@ -34,7 +34,7 @@ Avec le pull, on peut récupérer des modifications distantes
 
     git pull
 
-_En général on spécifie la branche que l'on veux récupérer_
+_En général on spécifie la branche que l'on veut récupérer_
 
 **Push**    
 
