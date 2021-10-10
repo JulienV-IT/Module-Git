@@ -15,11 +15,11 @@
 
 Ressources:
 
-[versionnning](https://julienv-it.github.io/Module-Git/versionning.md)
+[versionnning](https://github.com/JulienV-IT/Module-Git/blob/master/versionning.md)
 
-[collaboration](https://julienv-it.github.io/Module-Git/collaborate.md)
+[collaboration](https://github.com/JulienV-IT/Module-Git/blob/master/collab.md)
 
-[stockage](https://julienv-it.github.io/Module-Git/stockage.md)
+[stockage](https://github.com/JulienV-IT/Module-Git/blob/master/stockage.md)
 
 # Jour 1
 
