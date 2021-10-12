@@ -14,6 +14,7 @@ les Gh-pages sont des pages web statiques deployer a partir de vos dépots et de
 **Il existent plusieurs manieres de mettre en ligne les pages github**
 
 **1. créer votre domaine racine auto généré par github en créant un dépot nommer: user.github.io**
+
 **2. dans le dépot vous pouvez laisser au choix : **
 
   - Readme.md (seul) (Readme afficher)
