@@ -1,6 +1,8 @@
 ## Introduction et prérequis !
 
 - **Présentation et rencontres** (Quelques échanges et jeux pour briser la glace ) _+/- 30 minutes_
+    [pad du jeux](https://lite1.infini.fr/p/ModuleGit)
+
 - **Vérification des outils et comptes github** (installation et création de compte si besoins) _1h max_
 - **Point culture** _20 minutes max_
 
